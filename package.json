@@ -1,0 +1,22 @@
+{
+  "name": "rocket",
+  "version": "1.0.0",
+  "description": "The website for hell.js, the JavaScript framework for the next generation.",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hell-js/rocket.git"
+  },
+  "keywords": [
+    "hacktoberfest"
+  ],
+  "author": "Beef",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/hell-js/rocket/issues"
+  },
+  "homepage": "https://github.com/hell-js/rocket#readme"
+}
