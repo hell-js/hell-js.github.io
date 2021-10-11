@@ -1,0 +1,11 @@
+html, body {
+    background-color: black;
+    color: red;
+    text-align: center;
+}
+
+.title { 
+    font-size: 10rem;
+    margin-top: 0;
+    margin-bottom: 3rem;
+}
