@@ -7,10 +7,23 @@ html, body {
     text-align: center;
 }
 
-.title, .subtitle { 
-    margin-top: 0;
-    margin-bottom: 0.1rem;
+.title { 
+    font-size: 10rem; 
+    margin-top: 0; 
+    margin-bottom: 1rem; 
 }
 
-.title { font-size: 10rem; }
-.subtitle { font-size: 2rem; }
+.subtitle { 
+    font-size: 3rem; 
+    margin-top: 0; 
+    margin-bottom: 2rem; 
+}
+
+.section-header {
+    font-size: 2rem;
+    margin-bottom: 0.5em;
+}
+
+.section-body {
+    font-size: 1.2rem;
+}
